@@ -1,0 +1,107 @@
+
+*{
+    font-size: 40px ;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    
+}
+li{
+   border-style: solid;
+   border-color: white;
+}
+
+.container{
+    display: inline-flex;
+   
+    
+}
+
+
+.columna1{
+    background-color: #9933cc94;
+    padding: 0px;  
+}
+.columna1_0{
+    background-color: rgba(0, 128, 0, 0.534);
+}
+
+.columna2{
+    background-color: #601b838a;
+    padding: 0px;
+}
+
+.columna3,.columna4,.columna5,.columna6,.columna7,.columna8,.columna9,.columna10,.columna11,.columna12{
+        background-color: rgba(233, 170, 52, 0.664);
+        padding: 0px;
+}
+
+
+.columna3_5{
+    background-color: rgba(161, 121, 45, 0.719);
+    font-size: 20px;
+    
+    
+}
+.columna3_6{
+    background-color: rgba(199, 113, 166, 0.513);
+    font-size: 20px;
+    
+}
+
+.columna13{
+    background-color: rgba(255, 255, 0, 0.589);
+    padding: 0px;
+}
+.columna13_1{
+    background-color: rgba(153, 205, 50, 0.575);
+    padding: 0px;
+}
+
+.columna14{
+    background-color: rgba(255, 255, 0, 0.589);
+    padding: 0px;
+}
+.columna14_1{
+    background-color: rgba(0, 128, 0, 0.534);
+}
+.columna14_2,.columna14_3{
+    background-color:  rgba(153, 205, 50, 0.575);
+}
+
+.columna15{
+    background-color: rgba(168, 228, 49, 0.623);
+    padding: 0px;
+}
+.columna15_1,.columna15_2{
+    background-color: rgba(0, 128, 0, 0.534);
+}
+.columna15_5,.columna15_6{
+    background-color: rgba(255, 255, 0, 0.589);;
+}
+
+.columna16{
+    background-color: rgba(0, 128, 0, 0.534);
+    padding: 0px;
+}
+.columna16_4,.columna16_5{
+    background-color: rgba(255, 255, 20, 0.863);
+}
+.columna16_6{
+    background-color: rgba(255, 255, 0, 0.589);
+}
+
+.columna17{
+    background-color: rgba(97, 97, 241, 0.692);
+    padding: 0px;
+}
+
+.columna18{
+    background-color: rgba(97, 97, 241, 0.692);
+    padding: 0px;
+}
+
+.columna3_0,.columna3_1,.columna3_2,.columna4_0,.columna4_1,.columna4_2,.columna5_0,.columna5_1,.columna5_2,.columna6_0,.columna6_1,.columna6_2,.columna7_0,.columna7_1,.columna7_2,.columna8_0,.columna8_1,.columna8_2,.columna9_0,.columna9_1,.columna9_2,.columna10_0,.columna10_1,.columna10_2,.columna11_0,.columna11_1,.columna11_2,.columna12_0,.columna12_1,.columna12_2,.columna13_0{
+    background-color: white;
+}
